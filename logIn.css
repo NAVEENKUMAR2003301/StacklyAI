@@ -186,13 +186,19 @@
     font-weight: 400;
   }
 
-  .log-in > .black-bg > .inp-cont > form > .forget {
+  .log-in > .black-bg > .inp-cont > form > .forget{
     max-width: 406px;
     width: 100%;
     font-size: 16px;
     color: #b0b0b0;
     font-weight: 400;
     text-align: end;
+    
+  }
+  .log-in > .black-bg > .inp-cont > form > .forget > a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #b0b0b0;
   }
   
   .log-in > .black-bg > .inp-cont > form > .log_in > a {
